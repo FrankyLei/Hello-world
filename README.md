@@ -2,6 +2,7 @@
 intro to computer
 
 ## member
-  - franky
-  - ben
+  - franky(18)
+  - ben(17)
+
   
