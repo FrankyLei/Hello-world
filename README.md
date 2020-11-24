@@ -3,3 +3,5 @@ intro to computer
 
 ## member
   - franky
+  - ben
+  
